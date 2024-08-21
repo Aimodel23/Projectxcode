@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>\n<resources>\n</resources>
+<resources>
+    <!-- Download Options -->
+    <string name="download_video">Download Video</string>
+    <string name="download_audio">Download Audio</string>
+    
+    <!-- Background Playback -->
+    <string name="background_playback">Background Playback</string>
+    
+    <!-- Input Prompts -->
+    <string name="enter_video_url">Enter video URL</string>
+    <string name="enter_audio_url">Enter audio URL</string>
+    
+    <!-- Notifications -->
+    <string name="download_started">Download started</string>
+    <string name="download_completed">Download completed</string>
+    <string name="playback_started">Playback started</string>
+    
+    <!-- Error Messages -->
+    <string name="error_invalid_url">Invalid URL</string>
+    <string name="error_download_failed">Download failed</string>
+</resources>
