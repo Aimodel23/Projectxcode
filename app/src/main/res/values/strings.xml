@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Projectxcode</string>
-    <string name="download_video">Download Video</string>
-    <string name="download_audio">Download Audio</string>
-    <string name="background_playback">Background Playback</string>
-    <string name="enter_video_url">Enter video URL</string>
-    <string name="enter_audio_url">Enter audio URL</string>
-</resources>
